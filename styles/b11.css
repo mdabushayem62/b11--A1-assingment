@@ -1,0 +1,122 @@
+ 
+ .open-sans {
+  font-family: "Open Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+  
+}
+body{
+    background:  #F1F1F3;
+}
+
+ /* nav styles */
+ nav {
+    display: flex;
+     justify-content: space-between;
+    margin: 31px 160px 31px 160px;
+    
+    
+ }
+
+ nav ul li {
+    list-style: none;
+    
+ }
+ .navh3{
+     
+     
+     font-size: 32px;
+     font-weight: bold;
+ }
+
+.btn{
+    padding: 15px 30px 15px  30px;
+    color: #006A50;
+    font-size: 18px;
+    font-weight: 600;
+
+     
+}
+
+/* header styles */
+.banner {
+    
+     background:#C6E4D6;
+     padding: 80px 100px 80px 100px;
+     display: flex;
+     gap: 70px;
+     border-radius: 10px;
+     justify-content:space-between ;
+     margin: 31px 160px 31px 160px;
+
+}
+
+ 
+.b1{
+    font-size: 24px;
+    font-weight: medium;
+     color: rgba(14, 14, 14, 0.5);
+     gap: 15px;
+}
+.b2{
+    color: #0E0E0E;
+     font-size: 50px;
+     font-weight: 800;
+}
+.btn2 {
+     color: white;
+     background: #006A50;
+     text-decoration: none;
+     font-size: 18px;
+     font-weight: 600;
+     padding: 17px 30px 17px 30px;
+    border-radius: 10px;
+    border-style: none;
+}
+ 
+.sec1{
+     width: 1280;
+     height: 324;
+}
+ 
+.card{
+    display:flex;
+    padding: 0px 160px 0px 160px;
+    
+}
+
+.h5tile{
+       font-size: 40px;
+       font-weight: bold;
+       padding: 0px 160px 0px 160px;
+        
+
+       
+
+}
+.Inv {
+    background:#FFFFFF;
+    padding: 24px 24px 24px 24px;
+    border: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    
+    
+     
+
+    
+
+
+}
+.invoh4{
+
+    font-size: 20px;
+    font-weight: bold;
+}
+.emodesk{
+
+    font-size: 16px;
+    font-weight: regular;
+    color: rgba(14, 14, 14, 0.7);
+}
