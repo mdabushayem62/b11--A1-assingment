@@ -120,3 +120,93 @@ body{
     font-weight: regular;
     color: rgba(14, 14, 14, 0.7);
 }
+
+
+/* section2 styles */
+
+.tite1 {
+    padding: 0px 160px 0px 160px;
+    font-size: 40px;
+    font-weight: bold;
+
+}
+.desk1{
+    padding: 0px 160px 0px 160px;
+    font-size: 16px;
+    font-weight: regular;
+    color: rgba(14, 14, 14, 0.7);
+}
+
+.middle2{
+       display: flex;
+       padding: 0px 160px 0px 160px;
+
+}
+
+.med{
+  
+    background:rgba(84, 144, 245, 0.2) ;
+    border: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 32px 32px 32px 32px;
+
+}
+.med1{
+    background: #C6E4D6;
+    border: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 32px 32px 32px 32px;
+}
+
+.med2{
+    background: #F7EBCF;
+    border: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 32px 32px 32px 32px;
+}
+.medh4{
+    font-size: 20px;
+    font-weight: bold;
+}
+ 
+.meddescr{
+    font-size: 16px;
+    font-weight: regular;
+    color: rgba(14, 14, 14, 0.7);
+
+
+}
+
+.btn3{
+    font-size: 16px;
+    font-weight: 600;
+    background: #5490F5;
+    padding: 11px 20px 11px 20px;
+    border-radius: 10px;
+    
+}
+
+.btn4{
+    font-size: 16px;
+    font-weight: 600;
+    background: #09A15C;
+    padding: 11px 20px 11px 20px;
+    border-radius: 10px;
+     
+}
+
+.btn5{
+    font-size: 16px;
+    font-weight: 600;
+    background: #FFC239;
+    padding: 11px 20px 11px 20px;
+    border-radius: 10px;
+    
+    
+}
+.btn3 .btn4 .btn5{
+    align-items: center;
+}
